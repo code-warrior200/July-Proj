@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901242723335",
+    "project_id": "qonect-25f17",
+    "storage_bucket": "qonect-25f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901242723335:android:f2f7a0961cdba1a6c05ea2",
+        "android_client_info": {
+          "package_name": "com.example.qonect_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX37odioy-3SD1n7B-aaOe5BxEnE1xHpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

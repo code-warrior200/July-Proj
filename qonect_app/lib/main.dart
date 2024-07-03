@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => ChatProvider()),
       ],
       child: MaterialApp(
-        title: 'Chat App',
+        title: 'Qonect',
         theme: ThemeData(
           primarySwatch: Colors.green,
         ),
